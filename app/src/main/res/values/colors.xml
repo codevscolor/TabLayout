@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fragmentOneBack">#4FC3F7</color>
+    <color name="fragmentTwoBack">#DCE775</color>
+    <color name="fragmentThreeBack">#90A4AE</color>
+    <color name="fragmentFourBack">#FF4081</color>
+    <color name="fragmentFiveBack">#FFD54F</color>
+    <color name="fragmentSixBack">#AED581</color>
+    <color name="fragmentSevenBack">#FFD54F</color>
+    <color name="fragmentEightBack">#AED581</color>
+</resources>
